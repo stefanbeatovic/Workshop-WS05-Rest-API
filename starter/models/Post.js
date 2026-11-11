@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 
+// This model describes the posts stored in the blog database.
 const postSchema = new mongoose.Schema(
   {
     title: {
