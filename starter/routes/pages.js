@@ -4,6 +4,7 @@ const express = require('express');
 const router = express.Router();
 
 function sendPage(req, res, fileName) {
+  // All page files are kept in the public folder.
   res.sendFile(path.join(req.app.locals.publicDir, fileName));
 }
 
