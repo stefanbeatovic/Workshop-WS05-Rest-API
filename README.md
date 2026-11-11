@@ -142,3 +142,13 @@ The mandatory TODO tasks in `starter/server.js`, `starter/models/Post.js`,
 Before starting the server, replace the placeholder value in `starter/.env`
 with your own MongoDB Atlas connection string. The `.env` file is ignored by
 Git and must not be committed.
+
+## Postman Test Screenshots
+
+The CRUD requests were tested in Postman:
+
+- [Create post (POST)](./docs/postman-screenshots/POST.png)
+- [Get all posts (GET)](./docs/postman-screenshots/GET.png)
+- [Get one post (GET)](./docs/postman-screenshots/GET2.png)
+- [Update post (PUT)](./docs/postman-screenshots/PUT.png)
+- [Delete post (DELETE)](./docs/postman-screenshots/DELETE.png)
