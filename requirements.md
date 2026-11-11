@@ -166,14 +166,14 @@ Your solution will be considered complete if:
 ---
 
 ## Submission Checklist
-- [ ] All mandatory tasks are completed
-- [ ] Application starts successfully
-- [ ] Page routes load correctly
-- [ ] CRUD endpoints work correctly
-- [ ] MongoDB data is persisted
-- [ ] Code is pushed to GitHub
-- [ ] Repository does not contain `node_modules`
-- [ ] Repository does not contain `.env`
+- [x] All mandatory tasks are completed in `starter/`
+- [ ] Application starts successfully after adding a real MongoDB URI to `starter/.env`
+- [x] Page routes are implemented
+- [ ] CRUD endpoints need final testing with the student's MongoDB database
+- [ ] MongoDB data persistence needs final testing with the student's MongoDB database
+- [x] Code is pushed to GitHub
+- [x] Repository does not contain `node_modules`
+- [x] Repository does not contain `.env`
 
 ---
 

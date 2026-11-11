@@ -133,3 +133,12 @@ Save the `_id` returned by `POST` and reuse it in `GET/PUT/DELETE` requests.
    "author": ""
 }
 ```
+
+## Completion Notes
+
+The mandatory TODO tasks in `starter/server.js`, `starter/models/Post.js`,
+`starter/routes/pages.js`, and `starter/routes/posts.js` have been completed.
+
+Before starting the server, replace the placeholder value in `starter/.env`
+with your own MongoDB Atlas connection string. The `.env` file is ignored by
+Git and must not be committed.
