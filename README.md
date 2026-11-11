@@ -1,5 +1,9 @@
 # Workshop 05 - Building a REST API with Express and MongoDB
 
+## Deployed Application
+
+[Open the deployed application on Render](https://workshop-ws05-rest-api.onrender.com/)
+
 ## Starter Notes
 
 Before starting, prepare your repository workspace:
@@ -152,3 +156,10 @@ The CRUD requests were tested in Postman:
 - [Get one post (GET)](./docs/postman-screenshots/GET2.png)
 - [Update post (PUT)](./docs/postman-screenshots/PUT.png)
 - [Delete post (DELETE)](./docs/postman-screenshots/DELETE.png)
+
+## AI Assistance Disclaimer
+
+The student is the main author of this assignment and made the final decisions
+about the code and content. AI assistance was used to help understand the
+requirements, review the implementation, troubleshoot deployment, and improve
+the documentation.
