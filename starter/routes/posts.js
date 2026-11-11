@@ -9,6 +9,7 @@ function isValidObjectId(id) {
   return mongoose.Types.ObjectId.isValid(id);
 }
 
+// API errors are returned as JSON so they are easy to see in Postman.
 router.post('/', async (req, res) => {
   try {
     const post = new Post(req.body);
